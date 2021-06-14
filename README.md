@@ -16,7 +16,9 @@ A game to guess the color for a given RGB value
 ![Screenshot from 2021-05-07 13-14-43](https://user-images.githubusercontent.com/59609396/117418656-49bc3580-af39-11eb-860f-86506d6500ba.png)
 
 # Features
-The New Colors button gives a random RGB value. 
-The player should click any one of the 4 buttons(circular in shape).Upon clicking the correct circular button, 'Guess the color!'tab turns green with a message at the bottom. Upon clicking the wrong circular button, 'Guess the color!'tab turns red with a message at the bottom. 
-The player can click the 'New Colors' button to get different set of RGB values. 
-The player can click 'Play Again?' to reset the game.
+* The New Colors button gives a random RGB value. 
+* The player should click any one of the 4 buttons(circular in shape).
+  * Upon clicking the correct circular button, 'Guess the color!'tab turns green with a message at the bottom. 
+  * Upon clicking the wrong circular button, 'Guess the color!'tab turns red with a message at the bottom. 
+* The player can click the 'New Colors' button to get different set of RGB values. 
+* The player can click 'Play Again?' to reset the game.
